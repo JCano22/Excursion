@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+main{
+    background-color: black;
+    text-align: center;
+    font-family: verdana;
+}
+#main-title{
+    
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+
+}
+#link{
+    color: aquamarine;
+    font-size: 16px;
+}
+#scnd-title{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+#descript{
+    color: gray;
+    font-size: 21px;
+}
+#third-title{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#copyright{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
